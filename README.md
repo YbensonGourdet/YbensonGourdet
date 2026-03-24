@@ -17,7 +17,7 @@ I focus on translating operational challenges into structured, data-driven solut
   → https://github.com/YbensonGourdet/retail-operations-powerbi-dashboard
 
 ## Tools
-Power BI | Excel | SAP | SharePoint | Power Automate | SQL (learning)
+Power BI | Excel | SAP | SharePoint | Power Automate | SQL 
 
 ## Current Focus
-Business Analyst / BI / Operations Analyst roles in the Netherlands
+Business Analyst / BI / Operations / Process Analyst roles in the Netherlands
