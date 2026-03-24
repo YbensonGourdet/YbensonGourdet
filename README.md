@@ -9,6 +9,7 @@ I focus on translating operational challenges into structured, data-driven solut
 - Analyse business processes and identify inefficiencies
 - Design scalable reporting and workflow solutions
 - Translate business needs into structured solutions
+- Design and implement SharePoint-based knowledge hubs (Center of Excellence) to centralise processes.
 
 ## Key Project
 - Retail Operations Power BI Dashboard  
